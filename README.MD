@@ -4,11 +4,12 @@ https://petlja.org/en/biblioteka/r/kursevi/docs
 
 ## Course:
 
-https://petlja.org/en/kurs/17812/0/10220
+https://petlja.org/en/kurs/18602/0
 
 ## Github:
 
-https://github.com/Petlja/cocreate_Hardware-Assembly_en/tree/main/source
+https://github.com/Petlja/CoCreate_HW_Assembly_en_ESVersion
+/tree/main/source
 
 ## Info note example:
 
