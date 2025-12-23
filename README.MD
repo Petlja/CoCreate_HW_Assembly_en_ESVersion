@@ -8,8 +8,7 @@ https://petlja.org/en/kurs/18602/0
 
 ## Github:
 
-https://github.com/Petlja/CoCreate_HW_Assembly_en_ESVersion
-/tree/main/source
+https://petlja.github.io/CoCreate_HW_Assembly_en_ESVersion/
 
 ## Info note example:
 
@@ -23,8 +22,3 @@ Lesson related documents in English.
 
 https://drive.google.com/drive/folders/1YlA8Pwwf_MREUblgtmTkewcQj6tpJpSl
 
-## PT version:
-
-Lesson related documents in Portuguese.
-
-https://drive.google.com/drive/folders/1R0Ahp1U1_oOhvFkQ0Jf5fqOVku6A2jkx
