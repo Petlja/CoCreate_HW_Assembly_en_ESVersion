@@ -25,9 +25,9 @@ In this course, learners will **safely and collaboratively disassemble and reass
 
 ## Sessions
 
-### Session 1 - Collaboration and Safety Rules
+### Session 1 - Collaboration
 
-We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.
+We will form work groups and review collaboration tips to guide your teamwork in completing the activity
 
 ### Session 2 - Developing a Disassembly Tutorial
 
