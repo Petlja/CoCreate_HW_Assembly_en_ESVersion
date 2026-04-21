@@ -1,48 +1,48 @@
-# Developing an Assembly Tutorial
+# Desarrollo de un Tutorial de Montaje
 
-In this session:
-- Collaborate to safely **assemble a computer**
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-- Collaborate in your groups to safely **assemble a computer**.
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
+En esta sesión:
+- Colabora para **montar una computadora** de forma segura.
+- Desarrolla un **tutorial de montaje** detallando cada paso y documentando el proceso secuencialmente con fotos y descripciones.
+- Colabora en tu grupo para **montar una computadora** de forma segura.
+- Desarrolla un **tutorial de montaje** detallando cada paso y documentando el proceso secuencialmente con fotos y descripciones.
 
-## Disassembly & Assembly Tutorial Template:
+## Plantilla para el Tutorial de Desmontaje y Montaje:
 
-Use the **Assembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.  
+Utiliza la sección **Proceso de Montaje** de la *Plantilla de Tutorial de Desmontaje y Montaje* proporcionada para organizar tu trabajo de manera clara y sistemática.  
 
 
-## Assembly instructions
+## Instrucciones de montaje
 
-Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
+El montaje de computadoras es una tarea esencial de un técnico de instalación de computadoras. Es un proceso en el que se ensamblan todos los componentes internos necesarios para que el sistema informático sea funcional. Existe una secuencia adecuada de conexión para cada componente del sistema informático.
 
-It is a systematic process. Start by arranging the computer parts.
+Es un proceso sistemático. Comienza organizando las partes de la computadora.
 
-Materials required:
+Materiales requeridos:
 
-- Computer case with PSU installed
-- Motherboard
+- Carcasa de computadora con fuente de alimentación instalada
+- Placa base
 - CPU
-- Heat sink/fan assembly
-- Thermal compound
-- RAM module(s)
-- Motherboard standoffs and screws
-- Anti-static wrist strap and mat
-- Tool kit
+- Ensamblaje de disipador de calor/ventilador
+- Compuesto térmico
+- Módulo(s) de RAM
+- Separadores y tornillos para la placa base
+- Pulsera y alfombrilla antiestática
+- Kit de herramientas
 
-| Step | Instructions |
+| Paso | Instrucciones |
 |---|---|
-| 1. Open the case | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> The first step in assembling a computer is to open the computer case. To open the case, first remove the screws of the left side cover and slide the slide cover. |
-| 2. Install the power supply | ![](./images/S2.png) <br> The next step is to install a power supply. There are usually four screws that attach the power supply to the case. |
-| 3. Attach components to the motherboard | ![](./images/S3a.png) <br> The motherboard has to be prepared before its installation. To prepare the motherboard, you first need to install the CPU, then the heat sink on the CPU, and then the CPU fan. <br> ![](./images/S3b.png) <br> CPU:<br> A CPU socket uses a series of pins to connect a CPU’s processor to the PC’s motherboard. A CPU is connected via a CPU socket. <br> ![](./images/S3c.png) <br> Heat sink and fan assembly:<br> A Heat Sink and Fan (HSF) is an active cooling situation used to cool down integrated circuits in computer systems, commonly the Central Processing Unit (CPU). <br> ![](./images/S3d.png) <br> Connect the assembly power cable to the CPU fan connector on the motherboard. <br> ![](./images/S3e.png) <br> Installation of RAM: <br> To install the RAM, first install it on the motherboard and then fix the motherboard in the case. To install the RAM, first ensure its compatibility with the motherboard. |
-| 4. Install the motherboard | ![](./images/S4.png) <br> After preparing the motherboard, you can install the computer case.|
-| 5. Install internal drives | ![](./images/S5.png) <br> Hard drive - The hard drive is the device which stores all data. Connect the power cable coming from the SMPS to the power socked of the hard disk drive. Connect the SATA data cable from the hard disk drive socket to the motherboard socket. |
-| 6. Connect all internal cables | ![](./images/S6.png) <br> Power cables are used to distribute electricity from the power supply to the motherboard and other components. Data cables transmit data between the motherboard and storage devices, such as hard drives. |
-| 7. Install motherboard power connections | ![](./images/S7.png) <br> The Advanced Technology Extended (ATX) main power connector will have either 20 or 24 pins. |
-| 8. Connect external cables | ![](./images/S8a.png) <br> Connect the monitor - The VGA cable is used to connect to the monitor. ![](./images/S8b.png) <br> Connect the keyboard - If it uses a USB connector, plug it into any of the USB ports on the back of the computer. ![](./images/S8c.png) <br> Connect headphones or speakers, and microphone - Connect the external speakers or headphones, to the computer’s audio port (either on the front or back of the computer case). ![](./images/S8d.png) <br> Connect the computer to a power supply - Connect the power supply cable into the back of the computer case.  ![](./images/S8e.png) <br> Connect the printer, scanner and webcam |
-| 9. Starting the computer | ![](./images/S9.png) <br>Always remember that the first step is to push the power button of the CPU, then the monitor’s. An operating system or system software like Window or Linux will start loading. Now your computer is ready to use. |
+| 1. Abrir la carcasa | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> El primer paso para ensamblar una computadora es abrir la carcasa. Para abrir la carcasa, primero retira los tornillos de la tapa lateral izquierda y desliza la tapa lateral. |
+| 2. Instalar la fuente de alimentación | ![](./images/S2.png) <br> El siguiente paso es instalar una fuente de alimentación. Por lo general, hay cuatro tornillos que sujetan la fuente de alimentación a la carcasa. |
+| 3. Conectar componentes a la placa base | ![](./images/S3a.png) <br> La placa base debe prepararse antes de su instalación. Para preparar la placa base, primero necesitas instalar la CPU, luego el disipador de calor en la CPU, y luego el ventilador de la CPU. <br> ![](./images/S3b.png) <br> CPU:<br> Un socket de CPU utiliza una serie de pines para conectar el procesador de la CPU a la placa base de la PC. Una CPU se conecta a través de un socket de CPU. <br> ![](./images/S3c.png) <br> Ensamblaje de disipador de calor y ventilador:<br> Un disipador de calor y ventilador (HSF) es una solución de enfriamiento activa utilizada para enfriar circuitos integrados en sistemas informáticos, comúnmente la Unidad Central de Procesamiento (CPU). <br> ![](./images/S3d.png) <br> Conecta el cable de alimentación del ensamblaje al conector del ventilador de la CPU en la placa base. <br> ![](./images/S3e.png) <br> Instalación de RAM: <br> Para instalar la RAM, primero instálala en la placa base y luego fija la placa base en la carcasa. Para instalar la RAM, primero asegúrate de su compatibilidad con la placa base. |
+| 4. Instalar la placa base | ![](./images/S4.png) <br> Después de preparar la placa base, puedes instalarla en la carcasa de la computadora.|
+| 5. Instalar unidades internas | ![](./images/S5.png) <br> Disco duro - El disco duro es el dispositivo que almacena todos los datos. Conecta el cable de alimentación proveniente de la fuente de alimentación al conector de alimentación del disco duro. Conecta el cable de datos SATA desde el conector del disco duro al conector de la placa base. |
+| 6. Conectar todos los cables internos | ![](./images/S6.png) <br> Los cables de alimentación se utilizan para distribuir electricidad desde la fuente de alimentación a la placa base y otros componentes. Los cables de datos transmiten datos entre la placa base y los dispositivos de almacenamiento, como los discos duros. |
+| 7. Instalar conexiones de alimentación de la placa base | ![](./images/S7.png) <br> El conector de alimentación principal de Tecnología Avanzada Extendida (ATX) tendrá 20 o 24 pines. |
+| 8. Conectar cables externos | ![](./images/S8a.png) <br> Conecta el monitor - El cable VGA se utiliza para conectar el monitor. ![](./images/S8b.png) <br> Conecta el teclado - Si utiliza un conector USB, conéctalo a cualquiera de los puertos USB en la parte trasera de la computadora. ![](./images/S8c.png) <br> Conecta auriculares o altavoces, y micrófono - Conecta los altavoces externos o auriculares al puerto de audio de la computadora (ya sea en la parte frontal o trasera de la carcasa de la computadora). ![](./images/S8d.png) <br> Conecta la computadora a una fuente de alimentación - Conecta el cable de alimentación en la parte trasera de la carcasa de la computadora.  ![](./images/S8e.png) <br> Conecta la impresora, el escáner y la cámara web |
+| 9. Encender la computadora | ![](./images/S9.png) <br>Recuerda siempre que el primer paso es presionar el botón de encendido de la CPU, luego el del monitor. Un sistema operativo o software del sistema como Windows o Linux comenzará a cargarse. Ahora tu computadora está lista para usarse. |
 
-## Submit your final product
+## Envía tu producto final
 
-Review the completed template as a group, download it, and submit it in Moodle.
+Revisa la plantilla completada en grupo, descárgala y envíala en Moodle.
 
 
