@@ -1,46 +1,46 @@
-﻿# About the Course
+﻿# Sobre el Curso
 
-## Objectives
+## Objetivos
 
-- Learn techniques and procedures for assembling and disassembling computer equipment.
-- Learn how to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-- Develop collaboration, communication, problem-solving, teamwork, and time management skills.
+- Aprender técnicas y procedimientos para ensamblar y desmontar equipos informáticos.
+- Aprender a trabajar con herramientas manuales, equipo de protección y tecnología, utilizando correctamente laptops y la plataforma.
+- Desarrollar habilidades de colaboración, comunicación, resolución de problemas, trabajo en equipo y gestión del tiempo.
 
-## Prerequisites
+## Requisitos Previos
 
-Students participating in this activity should already be familiar with the components used in assembling computer systems, as well as their key specifications, including:
+Los estudiantes que participen en esta actividad deben estar familiarizados con los componentes utilizados en el ensamblaje de sistemas informáticos, así como con sus especificaciones clave, incluyendo:
 
-- Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
-- Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Capacity and technology (e.g., DDR, DDR2, DDR3, DDR4), Transfer rate and frequency, Timings, ECC support, **Chip layout**
-- Hard Drive (HDD): Rotation speed (RPM), Data transfer rate, Data and power connections, **Connectors** (SATA, Molex).
-- Solid State Drive (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Read/write speed (MB/s or GB/s).
-- Processor (CPU): Number of cores and threads, Base and turbo frequency (GHz), Cache (L1, L2, L3), Power consumption (TDP), **Compatibility with motherboard/socket**.
-- Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
-- Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
+- Fuente de Alimentación: Potencia nominal (W), Voltaje (V), Conectores Molex, SATA y PCIe (para GPUs), **Factores de forma** (ATX, SFX, etc.)
+- Placa Base: Tipo de socket de CPU (por ejemplo, LGA, AM), **Ranuras de RAM** (número y tipo), Ranuras de expansión (PCI, PCIe, M.2), Puertos USB (2.0, 3.0, 3.1, 3.2, USB-C), Conectores de datos y alimentación (SATA, Molex, M.2, NVMe), **Chipset y compatibilidad general**.
+- RAM: Capacidad y tecnología (por ejemplo, DDR, DDR2, DDR3, DDR4), Tasa de transferencia y frecuencia, Tiempos, Soporte ECC, **Diseño de chips**
+- Disco Duro (HDD): Velocidad de rotación (RPM), Tasa de transferencia de datos, Conexiones de datos y alimentación, **Conectores** (SATA, Molex).
+- Unidad de Estado Sólido (SSD): **Conectores** (SATA, M.2 SATA, NVMe PCIe), Velocidad de lectura/escritura (MB/s o GB/s).
+- Procesador (CPU): Número de núcleos e hilos, Frecuencia base y turbo (GHz), Caché (L1, L2, L3), Consumo de energía (TDP), **Compatibilidad con placa base/socket**.
+- Sistemas de Enfriamiento: Ventiladores (tamaño, RPM, flujo de aire en CFM), Enfriador de CPU (enfriamiento por aire o líquido), **Pasta térmica** (conductividad térmica W/mK)
+- Caja / Chasis: **Factor de forma** (ATX, Micro-ATX, Mini-ITX), Características de gestión de cables, Espacio para ventiladores, Bahías para discos HDD/SSD.
 
-## Course Description
+## Descripción del Curso
 
-In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+En este curso, los estudiantes **desmontarán y volverán a montar de forma segura y colaborativa un sistema informático**, identificarán y registrarán sus componentes, y producirán documentación técnica clara y precisa de todo el proceso. La actividad se llevará a cabo en cuatro sesiones:
 
-## Sessions
+## Sesiones
 
-### Session 1 - Collaboration
+### Sesión 1 - Colaboración
 
-We will form work groups and review collaboration tips to guide your teamwork in completing the activity
+Formaremos grupos de trabajo y revisaremos consejos de colaboración para guiar su trabajo en equipo al completar la actividad.
 
-### Session 2 - Developing a Disassembly Tutorial
+### Sesión 2 - Desarrollo de un Tutorial de Desmontaje
 
-Each group will disassemble a computer, documenting each step with written notes and photographs to create a **disassembly tutorial**.
+Cada grupo desmontará una computadora, documentando cada paso con notas escritas y fotografías para crear un **tutorial de desmontaje**.
 
-### Session 3 - Creating a Hardware Inventory
+### Sesión 3 - Creación de un Inventario de Hardware
 
-With the computer disassembled, each group will proceed to identify and document the technical specifications of the components to create a **hardware inventory**. 
+Con la computadora desmontada, cada grupo procederá a identificar y documentar las especificaciones técnicas de los componentes para crear un **inventario de hardware**.
 
-### Session 4 - Developing an Assembly Tutorial
+### Sesión 4 - Desarrollo de un Tutorial de Montaje
 
-Each group will develop an **assembly tutorial** by reassembling the computer, and documenting and taking pictures of the process. 
+Cada grupo desarrollará un **tutorial de montaje** volviendo a montar la computadora, documentando y tomando fotos del proceso.
 
 ```{suggestionnote}
-At the end of every session, groups will record their progress and individual member contributions, allowing the teacher to monitor both task advancement and the collaboration process.
+Al final de cada sesión, los grupos registrarán su progreso y las contribuciones individuales de los miembros, permitiendo al profesor monitorear tanto el avance de las tareas como el proceso de colaboración.
 ```
