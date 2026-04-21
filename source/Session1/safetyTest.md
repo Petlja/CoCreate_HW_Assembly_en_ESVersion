@@ -1,10 +1,10 @@
-# What have you learned
+# ¿Qué has aprendido
 
-- Exercise 1: Answer questions individually in own words.
-- Exercise 2: Match pictograms with their meaning via drag-and-drop.
+- Ejercicio 1: Responde las preguntas individualmente con tus propias palabras.
+- Ejercicio 2: Relaciona los pictogramas con su significado mediante arrastrar y soltar.
 
 
-## Exercise 1:
+## Ejercicio 1:
 
 ```{raw} html
 <div style="text-align: center">
@@ -12,201 +12,201 @@
 </div>
 ```
 
-## Exercise 2:
+## Ejercicio 2:
 
 <!-- ```{infonote} 
-**We need external drag and drop functionality short term!!!**
+**¡Necesitamos funcionalidad externa de arrastrar y soltar a corto plazo!**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
 :align: center
-:alt: Diagram of the drag and drop exercise.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ``` -->
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Hot surface;
-:answer3: Burn;
+:answer1: Descarga electrostática;
+:answer2: Superficie caliente;
+:answer3: Quemadura;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg1.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Láser;
+:answer2: Advertencia general;
+:answer3: Alto voltaje;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg2.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Burn;
-:answer3: Hot surface;
+:answer1: Descarga electrostática;
+:answer2: Quemadura;
+:answer3: Superficie caliente;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg3.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Marca de certificación de la UE;
+:answer2: Advertencia general;
+:answer3: Alto voltaje;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg4.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Fragile;
-:answer2: Laser;
-:answer3: Explosion;
+:answer1: Frágil;
+:answer2: Láser;
+:answer3: Explosión;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg5.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: UL component mark for US and Canada;
+:answer1: Marca de certificación de la UE;
+:answer2: Certificación eléctrica de normas europeas;
+:answer3: Marca de componente UL para EE. UU. y Canadá;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg6.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: Explosion;
-:answer3: High voltage;
+:answer1: Láser;
+:answer2: Explosión;
+:answer3: Alto voltaje;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg7.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: High temperature;
-:answer2: Hot surface;
-:answer3: General warning;
+:answer1: Alta temperatura;
+:answer2: Superficie caliente;
+:answer3: Advertencia general;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg8.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: Electrostatic discharge;
+:answer1: Marca de certificación de la UE;
+:answer2: Certificación eléctrica de normas europeas;
+:answer3: Descarga electrostática;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg9.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Burn;
-:answer2: Explosion;
-:answer3: Laser;
+:answer1: Quemadura;
+:answer2: Explosión;
+:answer3: Láser;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg10.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: General warning;
-:answer2: Hot surface;
-:answer3: Fragile;
+:answer1: Advertencia general;
+:answer2: Superficie caliente;
+:answer3: Frágil;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg11.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: UL component mark for US and Canada
-:answer2: EU certification mark;
-:answer3: European Norms Electrical Certification;
+:answer1: Marca de componente UL para EE. UU. y Canadá
+:answer2: Marca de certificación de la UE;
+:answer3: Certificación eléctrica de normas europeas;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
-<!-- Labels and final solution list:
+<!-- Etiquetas y lista de solución final:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
-12. European Norms Electrical Certification -->
+1. Descarga electrostática  
+2. Peligro eléctrico de alto voltaje  
+3. Peligro láser  
+4. Peligro de explosión  
+5. Advertencia general  
+6. Peligro de frágil  
+7. Peligro de alta temperatura  
+8. Peligro de superficie caliente  
+9. Peligro de quemadura  
+10. Marca de componente UL para EE. UU. y Canadá  
+11. Marca de certificación de la UE  
+12. Certificación eléctrica de normas europeas -->
 
 
-## Exercise 3: 
+## Ejercicio 3: 
 
-In the groups you formed for the following sessions, discuss and find solutions to the given situations. You will have 7 minutes for this task. Afterwards, each group will present its solutions to the whole class.
+En los grupos que formaste para las siguientes sesiones, discutan y encuentren soluciones a las situaciones dadas. Tendrán 7 minutos para esta tarea. Después, cada grupo presentará sus soluciones a toda la clase.
 
-1. A piece of equipment has just arrived at the workshop for repair, and you need to open it to see what’s wrong since it won’t start. What precautions should you take? Explain each one.
+1. Un equipo acaba de llegar al taller para su reparación y necesitas abrirlo para ver qué le pasa, ya que no enciende. ¿Qué precauciones debes tomar? Explica cada una.
 
-2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
+2. En cuanto a los sistemas de extinción de incendios, ¿qué tipo de extintor usarías para apagar un incendio que comenzó en una PC abierta que estabas reparando?
 
-3. Suppose that while trying to put out the fire mentioned above, your colleague burned their hand and arm. What first aid measures would you take?
+3. Supón que, al intentar apagar el incendio mencionado anteriormente, tu compañero se quemó la mano y el brazo. ¿Qué medidas de primeros auxilios tomarías?
 
-4. In another piece of equipment, when removing the power supply, you cut your finger. What first aid measures would you take?
+4. En otro equipo, al retirar la fuente de alimentación, te cortas el dedo. ¿Qué medidas de primeros auxilios tomarías?
 
-5. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+5. ¿Qué equipo de protección básico deberías usar en el taller para reducir los riesgos asociados al equipo informático?
 

@@ -1,12 +1,12 @@
-# Overview
+# Descripción general
 
-In this session you will: 
-- Form teams for further work and learn **how to collaborate effectively** within your team.
+En esta sesión:
+- Formarás equipos para el trabajo posterior y aprenderás **cómo colaborar eficazmente** dentro de tu equipo.
 
-## Group formation and tasks overview
+## Formación de grupos y resumen de tareas
 
-In this course, we will work in **groups of three** to: 
+En este curso, trabajaremos en **grupos de tres** para:
 
-- **Step 1.** Disassemble one computer per group and develop a disassembly tutorial with stepwise photos and descriptions.
-- **Step 2.** Compile a hardware inventory of disassembled components with technical specifications in the tutorial.
-- **Step 3.** Reassemble the computer and create an assembly tutorial with stepwise photos and descriptions.
+- **Paso 1.** Desmontar una computadora por grupo y desarrollar un tutorial de desmontaje con fotos y descripciones paso a paso.
+- **Paso 2.** Compilar un inventario de hardware de los componentes desmontados con especificaciones técnicas en el tutorial.
+- **Paso 3.** Volver a montar la computadora y crear un tutorial de montaje con fotos y descripciones paso a paso.
