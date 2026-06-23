@@ -61,7 +61,19 @@ Para prevenir accidentes, es necesario:
 Es importante conocer y respetar las señales de advertencia que aparecen en diferentes elementos.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
+:width: 90%
+:align: center
+:alt: La imagen contiene varias señales de advertencia de seguridad.
+```
+
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: La imagen contiene varias señales de advertencia de seguridad.
+```
+
+```{image} images/safety1-3.png
 :width: 90%
 :align: center
 :alt: La imagen contiene varias señales de advertencia de seguridad.

@@ -1,3 +1,6 @@
+---
+status: exclude
+---
 # Sesión 4 - Desarrollo de un Tutorial de Montaje
 
 ```{toctree}

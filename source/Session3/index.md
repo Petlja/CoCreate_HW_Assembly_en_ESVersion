@@ -1,3 +1,6 @@
+---
+status: exclude
+---
 # Sesión 3 - Creación de un Inventario de Hardware
 
 ```{toctree}
