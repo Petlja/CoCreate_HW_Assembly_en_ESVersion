@@ -211,27 +211,13 @@ Al trabajar con equipos eléctricos, como computadoras, utiliza siempre un **ext
 
 ### 8) Primeros auxilios
 
-<u>Tratamiento de heridas:</u>
-
-Lava la herida con abundante agua y jabón suave, luego desinféctala con alcohol. Inspecciona la herida y retira cualquier objeto extraño si lo hay, luego desinfecta nuevamente con alcohol. Deja la herida expuesta al aire si no hay riesgo de contacto; de lo contrario, cúbrela con una tirita.
-
-<u>Tratamiento de quemaduras:</u>
-
-Si es necesario, retira toda la ropa del área quemada excepto la que esté pegada a la piel. Sumerge la zona quemada en agua fría durante 10 minutos, repitiendo cada 40 minutos si el dolor persiste. Si el dolor no cede, acude al médico.
-
-<u>Emergencias oculares:</u>
-
-Estas solo deben ser tratadas por oftalmólogos. Las lesiones oculares más graves son: quemaduras, que deben tratarse como quemaduras (limpieza y agua fría); traumatismos oculares causados por golpes, soldaduras u objetos punzantes, en cuyo caso se debe cubrir el ojo; y contusiones alrededor del párpado, donde se puede aplicar hielo de forma indirecta.
-
-<u>Sustancias tóxicas:</u>
-
-Si se han ingerido sustancias corrosivas, beber leche o agua. Si la sustancia es ácida, tomar magnesia; si es alcalina, tomar vinagre o limón. En caso de hospitalización, se debe llevar una muestra de la sustancia y contactar con el Instituto de Toxicología.
-
-Si se ingieren sustancias no corrosivas, se debe inducir el vómito haciendo cosquillas en la úvula con una cuchara o bebiendo una taza de café con sal.
+```{infonote}
+En caso de lesión, se recomienda ponerse en contacto con la persona responsable de los primeros auxilios y/o llamar al Servicio de Emergencias Médicas.
+```
 
 En la siguiente hoja 👇, encontrarás un **resumen de las Reglas de Seguridad para el Montaje y Desmontaje de Computadoras**, que deberás usar como referencia durante todas las próximas sesiones:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Resumen de las Reglas de Seguridad para el Montaje y Desmontaje de Computadoras.

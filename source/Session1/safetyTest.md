@@ -204,9 +204,5 @@ En los grupos que formaste para las siguientes sesiones, discutan y encuentren s
 
 2. En cuanto a los sistemas de extinción de incendios, ¿qué tipo de extintor usarías para apagar un incendio que comenzó en una PC abierta que estabas reparando?
 
-3. Supón que, al intentar apagar el incendio mencionado anteriormente, tu compañero se quemó la mano y el brazo. ¿Qué medidas de primeros auxilios tomarías?
-
-4. En otro equipo, al retirar la fuente de alimentación, te cortas el dedo. ¿Qué medidas de primeros auxilios tomarías?
-
-5. ¿Qué equipo de protección básico deberías usar en el taller para reducir los riesgos asociados al equipo informático?
+3. ¿Qué equipo de protección básico deberías usar en el taller para reducir los riesgos asociados al equipo informático?
 
