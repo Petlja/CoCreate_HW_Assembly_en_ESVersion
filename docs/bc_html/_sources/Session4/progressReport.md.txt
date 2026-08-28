@@ -1,13 +1,17 @@
-# Final product
+# Producto final
 
-Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+¡Bien hecho al completar el Proceso de Montaje! Tu plantilla ahora está completa y servirá como tu producto final para el curso.
 
-## Progress Report
+## Informe de Progreso
 
-At session end, record group progress and individual contributions in the classroom journal.
+¡Excelente trabajo hoy!
+
+Por favor, tómate un momento para reflexionar, en grupos, sobre tu progreso y comparte cómo fue el trabajo hoy: qué lograste, cómo contribuyó cada miembro del grupo, si la colaboración fue efectiva y qué se podría mejorar, qué aprendiste y cuáles son tus próximos pasos.
+
+Responde cada pregunta lo más completamente posible para que tu profesor pueda apreciar mejor tu progreso.
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/1Sb6xT95ytqCZy9-NV5FFGvP30aUXezQJA8T61bThM6E/preview" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="https://forms.gle/Z8JyjEtFQ9G9Lkxq6" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 ```
