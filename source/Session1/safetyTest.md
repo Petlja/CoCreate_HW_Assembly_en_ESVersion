@@ -6,11 +6,14 @@
 
 ## Ejercicio 1:
 
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSphDvFXdnXTVV9Yjneg6_xcWYPRJ4wxxx3joGZfXwtJ1Oyg/viewform?usp=header" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+Responded a las preguntas en parejas o en grupos, con vuestras propias palabras.
+
+1. ¿Cómo definiríais la seguridad laboral y cuál es su objetivo?
+2. ¿Qué medidas se deben tomar para prevenir accidentes?
+3. ¿Qué debe garantizar el entorno ambiental como factor de riesgo general?
+4. ¿Qué es una situación confortable?
+5. ¿De qué depende el confort psíquico y qué problemas pueden aparecer a corto, medio y largo plazo si no se logra?
+6. ¿Cuáles creéis que son los factores de riesgo generales más importantes en el manejo de ordenadores? Justificad vuestra respuesta.
 
 ## Ejercicio 2:
 
