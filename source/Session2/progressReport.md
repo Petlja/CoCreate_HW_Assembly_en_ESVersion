@@ -6,6 +6,8 @@ Please take a moment to reflect, in groups, on your progress and share how today
 
 Answer each question as fully as possible so your teacher can better appreciate your progress.
 
+You will add to this report after each of the following activities, so make sure you save the document and remember where you saved it.
+
 
 ```{raw} html
 <div style="text-align: center">
