@@ -1,16 +1,14 @@
 # What have you learned
 
-- Exercise 1: Answer questions individually in own words.
-- Exercise 2: Match pictograms with their meaning via drag-and-drop.
-
-
 ## Exercise 1:
 
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSphDvFXdnXTVV9Yjneg6_xcWYPRJ4wxxx3joGZfXwtJ1Oyg/viewform?usp=header" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+Answer questions individually in your own words.
+1. How would you define workplace safety and its goal?
+2. What measures should be taken to prevent accidents?
+3. What must the environmental setting guarantee as a general risk factor?
+4. What is a comfortable situation?
+5. What does psychic comfort depend on, and what issues can appear in the short, medium, and long term if it is not achieved?
+6. What do you think are the most important general risk factors in computer handling? Justify your answer.
 
 ## Exercise 2:
 
