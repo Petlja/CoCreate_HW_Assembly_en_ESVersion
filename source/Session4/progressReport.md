@@ -1,14 +1,14 @@
-# Producto final
+# Producte final
 
-¡Bien hecho al completar el Proceso de Montaje! Tu plantilla ahora está completa y servirá como tu producto final para el curso.
+Molt bé per haver completat el procés de muntatge; la vostra plantilla ja és completa i servirà com a producte final del curs.
 
-## Informe de Progreso
+## Informe de progrés
 
-¡Excelente trabajo hoy!
+Heu estat excel·lents avui!
 
-Por favor, tómate un momento para reflexionar, en grupos, sobre tu progreso y comparte cómo fue el trabajo hoy: qué lograste, cómo contribuyó cada miembro del grupo, si la colaboración fue efectiva y qué se podría mejorar, qué aprendiste y cuáles son tus próximos pasos.
+Per favor, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
 
-Responde cada pregunta lo más completamente posible para que tu profesor pueda apreciar mejor tu progreso.
+Responeu a cada pregunta el més complet possible perquè el vostre professor pugui apreciar millor el vostre progrés.
 
 ```{raw} html
 <div style="text-align: center">
