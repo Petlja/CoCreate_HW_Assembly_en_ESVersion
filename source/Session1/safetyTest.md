@@ -1,211 +1,211 @@
-# ¿Qué has aprendido
+# Què has après
 
-- Ejercicio 1: Responde las preguntas individualmente con tus propias palabras.
-- Ejercicio 2: Relaciona los pictogramas con su significado mediante arrastrar y soltar.
+- Exercici 1: Respon les preguntes individualment amb les teves paraules.
+- Exercici 2: Relaciona els pictogrames amb el seu significat mitjançant arrossegar i deixar anar.
 
 
-## Ejercicio 1:
+## Exercici 1:
 
-Responded a las preguntas en parejas o en grupos, con vuestras propias palabras.
+Responeu les preguntes en parelles o en grups, amb les vostres pròpies paraules.
 
-1. ¿Cómo definiríais la seguridad laboral y cuál es su objetivo?
-2. ¿Qué medidas se deben tomar para prevenir accidentes?
-3. ¿Qué debe garantizar el entorno ambiental como factor de riesgo general?
-4. ¿Qué es una situación confortable?
-5. ¿De qué depende el confort psíquico y qué problemas pueden aparecer a corto, medio y largo plazo si no se logra?
-6. ¿Cuáles creéis que son los factores de riesgo generales más importantes en el manejo de ordenadores? Justificad vuestra respuesta.
+1. Com definiríeu la seguretat laboral i quin n’és l’objectiu?
+2. Quines mesures cal prendre per prevenir accidents?
+3. Què ha de garantir l’entorn ambiental com a factor de risc general?
+4. Què és una situació confortable?
+5. De què depèn el confort psíquic i quins problemes poden aparèixer a curt, mitjà i llarg termini si no s’aconsegueix?
+6. Quins creieu que són els factors de risc generals més importants en la manipulació d’ordinadors? Justifiqueu la vostra resposta.
 
-## Ejercicio 2:
+## Exercici 2:
 
 <!-- ```{infonote} 
-**¡Necesitamos funcionalidad externa de arrastrar y soltar a corto plazo!**
+**Necessitem funcionalitat externa d'arrossegar i deixar anar a curt termini!!!**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ``` -->
 
 ```{mchoice}
-:answer1: Descarga electrostática;
-:answer2: Superficie caliente;
-:answer3: Quemadura;
+:answer1: Descàrrega electrostàtica;
+:answer2: Superfície calenta;
+:answer3: Cremada;
 :correct: 1
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg1.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Láser;
-:answer2: Advertencia general;
-:answer3: Alto voltaje;
+:answer1: Làser;
+:answer2: Advertència general;
+:answer3: Alta tensió;
 :correct: 2
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg2.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 
 ```{mchoice}
-:answer1: Descarga electrostática;
-:answer2: Quemadura;
-:answer3: Superficie caliente;
+:answer1: Descàrrega electrostàtica;
+:answer2: Cremada;
+:answer3: Superfície calenta;
 :correct: 2
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg3.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Marca de certificación de la UE;
-:answer2: Advertencia general;
-:answer3: Alto voltaje;
+:answer1: Marca de certificació de la UE;
+:answer2: Advertència general;
+:answer3: Alta tensió;
 :correct: 3
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg4.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Frágil;
-:answer2: Láser;
-:answer3: Explosión;
+:answer1: Fràgil;
+:answer2: Làser;
+:answer3: Explosió;
 :correct: 1
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg5.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Marca de certificación de la UE;
-:answer2: Certificación eléctrica de normas europeas;
-:answer3: Marca de componente UL para EE. UU. y Canadá;
+:answer1: Marca de certificació de la UE;
+:answer2: Certificació elèctrica de normes europees;
+:answer3: Marca de component UL per als EUA i el Canadà;
 :correct: 3
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg6.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Láser;
-:answer2: Explosión;
-:answer3: Alto voltaje;
+:answer1: Làser;
+:answer2: Explosió;
+:answer3: Alta tensió;
 :correct: 1
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg7.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
 :answer1: Alta temperatura;
-:answer2: Superficie caliente;
-:answer3: Advertencia general;
+:answer2: Superfície calenta;
+:answer3: Advertència general;
 :correct: 1
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg8.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Marca de certificación de la UE;
-:answer2: Certificación eléctrica de normas europeas;
-:answer3: Descarga electrostática;
+:answer1: Marca de certificació de la UE;
+:answer2: Certificació elèctrica de normes europees;
+:answer3: Descàrrega electrostàtica;
 :correct: 1
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg9.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Quemadura;
-:answer2: Explosión;
-:answer3: Láser;
+:answer1: Cremada;
+:answer2: Explosió;
+:answer3: Làser;
 :correct: 2
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg10.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Advertencia general;
-:answer2: Superficie caliente;
-:answer3: Frágil;
+:answer1: Advertència general;
+:answer2: Superfície calenta;
+:answer3: Fràgil;
 :correct: 2
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg11.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
 
 ```{mchoice}
-:answer1: Marca de componente UL para EE. UU. y Canadá
-:answer2: Marca de certificación de la UE;
-:answer3: Certificación eléctrica de normas europeas;
+:answer1: Marca de component UL per als EUA i el Canadà
+:answer2: Marca de certificació de la UE;
+:answer3: Certificació elèctrica de normes europees;
 :correct: 3
 
-Selecciona la etiqueta correcta correspondiente al pictograma
+Selecciona l'etiqueta correcta corresponent al pictograma
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
-:alt: Diagrama del ejercicio de arrastrar y soltar.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ```
-<!-- Etiquetas y lista de solución final:
+<!-- Etiquetes i llista de solucions finals:
 
-1. Descarga electrostática  
-2. Peligro eléctrico de alto voltaje  
-3. Peligro láser  
-4. Peligro de explosión  
-5. Advertencia general  
-6. Peligro de frágil  
-7. Peligro de alta temperatura  
-8. Peligro de superficie caliente  
-9. Peligro de quemadura  
-10. Marca de componente UL para EE. UU. y Canadá  
-11. Marca de certificación de la UE  
-12. Certificación eléctrica de normas europeas -->
+1. Descàrrega electrostàtica  
+2. Risc elèctric d'alta tensió  
+3. Risc de làser  
+4. Risc d'explosió  
+5. Advertència general  
+6. Risc de fragilitat  
+7. Risc d'alta temperatura  
+8. Risc de superfície calenta  
+9. Risc de cremada  
+10. Marca de component UL per als EUA i el Canadà  
+11. Marca de certificació de la UE  
+12. Certificació elèctrica de normes europees -->
 
 
-## Ejercicio 3: 
+## Exercici 3: 
 
-En los grupos que formaste para las siguientes sesiones, discutan y encuentren soluciones a las situaciones dadas. Tendrán 7 minutos para esta tarea. Después, cada grupo presentará sus soluciones a toda la clase.
+En els grups que heu format per a les sessions següents, debateu i trobeu solucions a les situacions proposades. Tindreu 7 minuts per a aquesta tasca. Després, cada grup presentarà les seves solucions a tota la classe.
 
-1. Un equipo acaba de llegar al taller para su reparación y necesitas abrirlo para ver qué le pasa, ya que no enciende. ¿Qué precauciones debes tomar? Explica cada una.
+1. Acaba d'arribar al taller un equip per reparar i cal obrir-lo per veure què falla, ja que no s'engega. Quines precaucions heu de prendre? Explica cadascuna.
 
-2. En cuanto a los sistemas de extinción de incendios, ¿qué tipo de extintor usarías para apagar un incendio que comenzó en una PC abierta que estabas reparando?
+2. Pel que fa als sistemes d'extinció d'incendis, quin tipus d'extintor faries servir per apagar un foc iniciat en un PC obert que estaves reparant?
 
-3. ¿Qué equipo de protección básico deberías usar en el taller para reducir los riesgos asociados al equipo informático?
+3. Quin equip de protecció bàsic s'ha d'utilitzar al taller per reduir els riscos associats als equips informàtics?
 
