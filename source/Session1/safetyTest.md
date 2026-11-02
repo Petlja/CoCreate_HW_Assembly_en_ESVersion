@@ -2,7 +2,7 @@
 
 ## Exercise 1:
 
-Answer questions individually in your own words.
+Answer questions in pairs or in groups, in your own words.
 1. How would you define workplace safety and its goal?
 2. What measures should be taken to prevent accidents?
 3. What must the environmental setting guarantee as a general risk factor?
