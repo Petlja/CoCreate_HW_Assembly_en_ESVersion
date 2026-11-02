@@ -1,10 +1,9 @@
 # Progress Report
 
-You did a great job today! 
+Open the progress report you saved after Activity 2. 
+Read what you wrote last time, then add a new section about Activity 3: what you achieved, how each group member contributed, how the collaboration went, what you learned, and what you would do differently next time.
+When you have finished, save the document again.
 
-Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
-
-Answer each question as fully as possible so your teacher can better appreciate your progress.
 
 ```{raw} html
 <div style="text-align: center">
