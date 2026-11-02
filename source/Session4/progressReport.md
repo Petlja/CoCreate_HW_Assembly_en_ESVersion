@@ -1,14 +1,9 @@
-# Final product
+## Progress Report - Final report
 
-Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+Open your progress report and add the final section, about Activity 4. Describe what you achieved, how each group member contributed, how the collaboration went, and what you learned.
+Finally, read through the whole report and think about how your work changed from Activity 2 to Activity 4. In a few sentences, write about where you made the most progress.
+Save the document and submit it in the way you agreed with your teacher.
 
-## Progress Report
-
-You did a great job today! 
-
-Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
-
-Answer each question as fully as possible so your teacher can better appreciate your progress.
 
 ```{raw} html
 <div style="text-align: center">
