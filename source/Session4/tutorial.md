@@ -1,8 +1,8 @@
-# Desarrollo de un Tutorial de Montaje
+# Elaboració d'un tutorial de muntatge
 
-## Plantilla para el Tutorial de Desmontaje y Montaje:
+## Plantilla del tutorial de desmuntatge i muntatge:
 
-Utiliza la sección **Proceso de Montaje** de la *Plantilla de Tutorial de Desmontaje y Montaje* proporcionada para organizar tu trabajo de manera clara y sistemática.
+Feu servir la secció **Procés de muntatge** de la *Plantilla del tutorial de desmuntatge i muntatge* proporcionada per organitzar la feina de manera clara i sistemàtica.
 
 ```{raw} html
 <div style="text-align: center">
