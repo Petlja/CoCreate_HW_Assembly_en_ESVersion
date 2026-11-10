@@ -11,6 +11,11 @@ You will add to this report after each of the following activities, so make sure
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/1FCgPgf5tx1zcXPEyQL9JZUSVT6fS6LQa/edit?usp=sharing&ouid=107430708822288370740&rtpof=true&sd=true" width="100%" height="600px" frameborder="0"></iframe>
+    <a href="../_static/word/EN_Template_Progress report.docx" width="100%" height="600px"> Download the progress tracking document</a>
 </div>
+```
+
+```{learnmorenote} For teachers
+
+Before students begin working on the report, clearly explain to them where they should save it and how they should submit it (for example, in a shared folder, on the learning platform, or by email). Students will continue updating the same document after Activities 3 and 4, so it is important that they can easily reopen it.
 ```
