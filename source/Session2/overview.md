@@ -1,19 +1,10 @@
-# Developing a Disassembly Tutorial
+# Disassembly instructions
 
+```{suggestionnote}
 In this session you will:
 - Collaborate in your groups to safely **disassemble a computer**.
 - Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-
-## Disassembly & Assembly Tutorial Template:
-
-Use the **Disassembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
-
-```{suggestionnote}
-**Important:** You will continue adding to this same template throughout the course. By the end, it will detail the disassembly process, hardware components and assembly process. Together, this will become the **final product**.
 ```
-
-
-## Disassembly instructions
 
 Disassembly breaks a device into separate parts.
 
