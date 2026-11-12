@@ -1,6 +1,6 @@
 ﻿---
 status: exclude
-alias: CoCreate_HW_Assembly_en
+alias: CoCreate_HW_Assembly_en_ESVersion
 lang: en
 short_description: Collaboratively disassembling and reassembling a computer system.
 long_description: >
